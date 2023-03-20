@@ -9,7 +9,7 @@ h11==0.13.0
 idna==3.3
 importlib-metadata==4.11.3
 keyring==23.5.0
-lxml==4.8.0
+lxml==4.9.0
 openconnect-sso @ https://github.com/andre-geldenhuis/openconnect-sso/archive/refs/heads/custom-scripts.zip
 outcome==1.1.0
 prompt-toolkit==3.0.28
